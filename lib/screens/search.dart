@@ -28,13 +28,6 @@ class _SearchScreenState extends State<SearchScreen> {
     return;
   }
 
-  Stream<Data> stream() async* {}
-
-  @override
-  void initState() {
-    super.initState();
-  }
-
   final TextEditingController _controller = TextEditingController();
 
   @override
