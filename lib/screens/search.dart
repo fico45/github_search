@@ -39,7 +39,7 @@ class _SearchScreenState extends State<SearchScreen> {
               SliverAppBar(
                 floating: true,
                 snap: true,
-                title: const Text("Ingemark GitHub Search"),
+                title: const Text("GitHub Search"),
                 bottom: AppBar(
                   title: Container(
                     width: double.infinity,
